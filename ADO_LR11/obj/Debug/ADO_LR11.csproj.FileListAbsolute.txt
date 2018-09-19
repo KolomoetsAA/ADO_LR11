@@ -1,0 +1,12 @@
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\ADO_LR11.exe.config
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\ADO_LR11.exe
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\ADO_LR11.pdb
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\EntityFramework.dll
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\EntityFramework.SqlServer.dll
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\EntityFramework.xml
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\bin\Debug\EntityFramework.SqlServer.xml
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\obj\Debug\ADO_LR11.csprojResolveAssemblyReference.cache
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\obj\Debug\ADO_LR11.Properties.Resources.resources
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\obj\Debug\ADO_LR11.csproj.GenerateResource.Cache
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\obj\Debug\ADO_LR11.exe
+D:\_SRPO\Kolomoets\ADO.NET\ADO_LR11\ADO_LR11\obj\Debug\ADO_LR11.pdb
